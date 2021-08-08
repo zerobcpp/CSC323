@@ -1,0 +1,466 @@
+Tokenizing: First Name: Isakhar	 Last Name: Malla	 Operation: +	 H(x) = 12
+*** Performing hashInsert onIsakhar, Malla
+
+(First, Last Isakhar)-->(Isakhar, Malla NULL)-->NULL
+Tokenizing: First Name: Hermun	 Last Name: Kim	 Operation: +	 H(x) = 26
+*** Performing hashInsert onHermun, Kim
+
+(First, Last Hermun)-->(Hermun, Kim NULL)-->NULL
+Tokenizing: First Name: Carlos	 Last Name: Ochilov	 Operation: +	 H(x) = 21
+*** Performing hashInsert onCarlos, Ochilov
+
+(First, Last Carlos)-->(Carlos, Ochilov NULL)-->NULL
+Tokenizing: First Name: Isakhar	 Last Name: Malla	 Operation: ?	 H(x) = 12
+*** Performing hashRetrieval on Isakhar Malla
+
+Yes, the record is in the database!: 	Isakhar	Malla
+Tokenizing: First Name: Michael	 Last Name: Zheng	 Operation: +	 H(x) = 14
+*** Performing hashInsert onMichael, Zheng
+
+(First, Last Michael)-->(Michael, Zheng NULL)-->NULL
+Tokenizing: First Name: Jasmine	 Last Name: Malla	 Operation: +	 H(x) = 12
+*** Performing hashInsert onJasmine, Malla
+
+(First, Last Isakhar)-->(Isakhar, Malla Jasmine)-->(Jasmine, Malla NULL)-->NULL
+Tokenizing: First Name: Elyon	 Last Name: Aminov	 Operation: +	 H(x) = 16
+*** Performing hashInsert onElyon, Aminov
+
+(First, Last Elyon)-->(Elyon, Aminov NULL)-->NULL
+Tokenizing: First Name: Hermun	 Last Name: Kim	 Operation: +	 H(x) = 26
+*** Performing hashInsert onHermun, Kim
+
+*** Warning, the record is already in the database!
+Tokenizing: First Name: Jasmin	 Last Name: Atwal	 Operation: +	 H(x) = 7
+*** Performing hashInsert onJasmin, Atwal
+
+(First, Last Jasmin)-->(Jasmin, Atwal NULL)-->NULL
+Tokenizing: First Name: Sweyaksha	 Last Name: Webster	 Operation: ?	 H(x) = 10
+*** Performing hashRetrieval on Sweyaksha Webster
+
+No, the record is not in the database!: 	Sweyaksha	Webster
+Tokenizing: First Name: Mohammed 	 Last Name: Aucacama	 Operation: +	 H(x) = 28
+*** Performing hashInsert onMohammed , Aucacama
+
+(First, Last Mohammed )-->(Mohammed , Aucacama NULL)-->NULL
+Tokenizing: First Name: Longcheng	 Last Name: Ochilov	 Operation: +	 H(x) = 21
+*** Performing hashInsert onLongcheng, Ochilov
+
+(First, Last Carlos)-->(Carlos, Ochilov Longcheng)-->(Longcheng, Ochilov NULL)-->NULL
+Tokenizing: First Name: Sweyaksha	 Last Name: Webster	 Operation: +	 H(x) = 10
+*** Performing hashInsert onSweyaksha, Webster
+
+(First, Last Sweyaksha)-->(Sweyaksha, Webster NULL)-->NULL
+Tokenizing: First Name: Kyle 	 Last Name: Boodoosingh	 Operation: +	 H(x) = 9
+*** Performing hashInsert onKyle , Boodoosingh
+
+(First, Last Kyle )-->(Kyle , Boodoosingh NULL)-->NULL
+Tokenizing: First Name: Longcheng	 Last Name: Ochilov	 Operation: -	 H(x) = 21
+*** Performing hashDelete on Longcheng Ochilov
+
+(First, Last Carlos)-->(Carlos, Ochilov NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Pengdwende 	 Last Name: Cesa	 Operation: +	 H(x) = 28
+*** Performing hashInsert onPengdwende , Cesa
+
+(First, Last Mohammed )-->(Mohammed , Aucacama Pengdwende )-->(Pengdwende , Cesa NULL)-->NULL
+Tokenizing: First Name: David	 Last Name: Chowdhury	 Operation: ?	 H(x) = 12
+*** Performing hashRetrieval on David Chowdhury
+
+No, the record is not in the database!: 	David	Chowdhury
+Tokenizing: First Name: Kushal	 Last Name: Zheng	 Operation: +	 H(x) = 14
+*** Performing hashInsert onKushal, Zheng
+
+(First, Last Kushal)-->(Kushal, Zheng Michael)-->(Michael, Zheng NULL)-->NULL
+Tokenizing: First Name: Mohammed 	 Last Name: Aucacama	 Operation: +	 H(x) = 28
+*** Performing hashInsert onMohammed , Aucacama
+
+*** Warning, the record is already in the database!
+Tokenizing: First Name: Sweyaksha	 Last Name: Kim	 Operation: -	 H(x) = 26
+*** Performing hashDelete on Sweyaksha Kim
+
+*** Warning, the record is *not* in the database!
+Tokenizing: First Name: David	 Last Name: Chowdhury	 Operation: +	 H(x) = 12
+*** Performing hashInsert onDavid, Chowdhury
+
+(First, Last David)-->(David, Chowdhury Isakhar)-->(Isakhar, Malla Jasmine)-->(Jasmine, Malla NULL)-->NULL
+Tokenizing: First Name: Chewantha 	 Last Name: Chowdhury	 Operation: +	 H(x) = 12
+*** Performing hashInsert onChewantha , Chowdhury
+
+(First, Last Chewantha )-->(Chewantha , Chowdhury David)-->(David, Chowdhury Isakhar)-->(Isakhar, Malla Jasmine)-->(Jasmine, Malla NULL)-->NULL
+Tokenizing: First Name: Kushal	 Last Name: Zheng	 Operation: ?	 H(x) = 14
+*** Performing hashRetrieval on Kushal Zheng
+
+Yes, the record is in the database!: 	Kushal	Zheng
+Tokenizing: First Name: David	 Last Name: Chowdhury	 Operation: +	 H(x) = 12
+*** Performing hashInsert onDavid, Chowdhury
+
+*** Warning, the record is already in the database!
+Tokenizing: First Name: Jasmine	 Last Name: Malla	 Operation: -	 H(x) = 12
+*** Performing hashDelete on Jasmine Malla
+
+(First, Last Chewantha )-->(Chewantha , Chowdhury David)-->(David, Chowdhury Isakhar)-->(Isakhar, Malla NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Dylan	 Last Name: Coleman	 Operation: +	 H(x) = 9
+*** Performing hashInsert onDylan, Coleman
+
+(First, Last Kyle )-->(Kyle , Boodoosingh Dylan)-->(Dylan, Coleman NULL)-->NULL
+Tokenizing: First Name: Upesh	 Last Name: Guira	 Operation: +	 H(x) = 28
+*** Performing hashInsert onUpesh, Guira
+
+(First, Last Mohammed )-->(Mohammed , Aucacama Pengdwende )-->(Pengdwende , Cesa Upesh)-->(Upesh, Guira NULL)-->NULL
+Tokenizing: First Name: Kushal	 Last Name: Zheng	 Operation: -	 H(x) = 14
+*** Performing hashDelete on Kushal Zheng
+
+(First, Last Michael)-->(Michael, Zheng NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Tasif 	 Last Name: Jang	 Operation: +	 H(x) = 27
+*** Performing hashInsert onTasif , Jang
+
+(First, Last Tasif )-->(Tasif , Jang NULL)-->NULL
+Tokenizing: First Name: Miroo	 Last Name: Jayasundera	 Operation: +	 H(x) = 2
+*** Performing hashInsert onMiroo, Jayasundera
+
+(First, Last Miroo)-->(Miroo, Jayasundera NULL)-->NULL
+Tokenizing: First Name: Jasmine	 Last Name: Malla	 Operation: -	 H(x) = 12
+*** Performing hashDelete on Jasmine Malla
+
+*** Warning, the record is *not* in the database!
+Tokenizing: First Name: Wen	 Last Name: Johnson	 Operation: +	 H(x) = 20
+*** Performing hashInsert onWen, Johnson
+
+(First, Last Wen)-->(Wen, Johnson NULL)-->NULL
+Tokenizing: First Name: Marvin	 Last Name: Karki	 Operation: +	 H(x) = 25
+*** Performing hashInsert onMarvin, Karki
+
+(First, Last Marvin)-->(Marvin, Karki NULL)-->NULL
+Tokenizing: First Name: Sweyaksha	 Last Name: Kim	 Operation: -	 H(x) = 26
+*** Performing hashDelete on Sweyaksha Kim
+
+*** Warning, the record is *not* in the database!
+Tokenizing: First Name: Junjie	 Last Name: Kazi	 Operation: +	 H(x) = 5
+*** Performing hashInsert onJunjie, Kazi
+
+(First, Last Junjie)-->(Junjie, Kazi NULL)-->NULL
+Tokenizing: First Name: Richard	 Last Name: Kim	 Operation: +	 H(x) = 26
+*** Performing hashInsert onRichard, Kim
+
+(First, Last Hermun)-->(Hermun, Kim Richard)-->(Richard, Kim NULL)-->NULL
+Tokenizing: First Name: Davron	 Last Name: Cai	 Operation: -	 H(x) = 13
+*** Performing hashDelete on Davron Cai
+
+*** Warning, the record is *not* in the database!
+Tokenizing: First Name: Brian	 Last Name: Lee	 Operation: +	 H(x) = 15
+*** Performing hashInsert onBrian, Lee
+
+(First, Last Brian)-->(Brian, Lee NULL)-->NULL
+Tokenizing: First Name: Samriddha	 Last Name: Kim	 Operation: +	 H(x) = 26
+*** Performing hashInsert onSamriddha, Kim
+
+(First, Last Hermun)-->(Hermun, Kim Richard)-->(Richard, Kim Samriddha)-->(Samriddha, Kim NULL)-->NULL
+Tokenizing: First Name: Fidiana	 Last Name: Lei	 Operation: +	 H(x) = 19
+*** Performing hashInsert onFidiana, Lei
+
+(First, Last Fidiana)-->(Fidiana, Lei NULL)-->NULL
+Tokenizing: First Name: Josephine	 Last Name: Li	 Operation: +	 H(x) = 14
+*** Performing hashInsert onJosephine, Li
+
+(First, Last Josephine)-->(Josephine, Li Michael)-->(Michael, Zheng NULL)-->NULL
+Tokenizing: First Name: Zilong	 Last Name: Kharel	 Operation: -	 H(x) = 23
+*** Performing hashDelete on Zilong Kharel
+
+*** Warning, the record is *not* in the database!
+Tokenizing: First Name: Donghee	 Last Name: Shrestha	 Operation: +	 H(x) = 15
+*** Performing hashInsert onDonghee, Shrestha
+
+(First, Last Brian)-->(Brian, Lee Donghee)-->(Donghee, Shrestha NULL)-->NULL
+Tokenizing: First Name: Andy	 Last Name: Lin	 Operation: +	 H(x) = 7
+*** Performing hashInsert onAndy, Lin
+
+(First, Last Jasmin)-->(Jasmin, Atwal Andy)-->(Andy, Lin NULL)-->NULL
+Tokenizing: First Name: Avenash	 Last Name: Luu	 Operation: +	 H(x) = 21
+*** Performing hashInsert onAvenash, Luu
+
+(First, Last Avenash)-->(Avenash, Luu Carlos)-->(Carlos, Ochilov NULL)-->NULL
+Tokenizing: First Name: Brian	 Last Name: Lee	 Operation: ?	 H(x) = 15
+*** Performing hashRetrieval on Brian Lee
+
+Yes, the record is in the database!: 	Brian	Lee
+Tokenizing: First Name: Davron	 Last Name: Cai	 Operation: +	 H(x) = 13
+*** Performing hashInsert onDavron, Cai
+
+(First, Last Davron)-->(Davron, Cai NULL)-->NULL
+Tokenizing: First Name: Chelsea	 Last Name: Mujaj	 Operation: +	 H(x) = 17
+*** Performing hashInsert onChelsea, Mujaj
+
+(First, Last Chelsea)-->(Chelsea, Mujaj NULL)-->NULL
+Tokenizing: First Name: Gursharn	 Last Name: Pho	 Operation: +	 H(x) = 12
+*** Performing hashInsert onGursharn, Pho
+
+(First, Last Chewantha )-->(Chewantha , Chowdhury David)-->(David, Chowdhury Isakhar)-->(Isakhar, Malla Gursharn)-->(Gursharn, Pho NULL)-->NULL
+Tokenizing: First Name: Samriddha	 Last Name: Kim	 Operation: -	 H(x) = 26
+*** Performing hashDelete on Samriddha Kim
+
+(First, Last Hermun)-->(Hermun, Kim Richard)-->(Richard, Kim NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Donghee	 Last Name: Shrestha	 Operation: -	 H(x) = 15
+*** Performing hashDelete on Donghee Shrestha
+
+(First, Last Brian)-->(Brian, Lee NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Mahima	 Last Name: Qu	 Operation: +	 H(x) = 12
+*** Performing hashInsert onMahima, Qu
+
+(First, Last Chewantha )-->(Chewantha , Chowdhury David)-->(David, Chowdhury Isakhar)-->(Isakhar, Malla Gursharn)-->(Gursharn, Pho Mahima)-->(Mahima, Qu NULL)-->NULL
+Tokenizing: First Name: Zilong	 Last Name: Kharel	 Operation: +	 H(x) = 23
+*** Performing hashInsert onZilong, Kharel
+
+(First, Last Zilong)-->(Zilong, Kharel NULL)-->NULL
+Tokenizing: First Name: Pravesh	 Last Name: Ramnarine	 Operation: +	 H(x) = 24
+*** Performing hashInsert onPravesh, Ramnarine
+
+(First, Last Pravesh)-->(Pravesh, Ramnarine NULL)-->NULL
+Tokenizing: First Name: Tenzin	 Last Name: Rodriguez	 Operation: +	 H(x) = 11
+*** Performing hashInsert onTenzin, Rodriguez
+
+(First, Last Tenzin)-->(Tenzin, Rodriguez NULL)-->NULL
+Tokenizing: First Name: George	 Last Name: Singh	 Operation: +	 H(x) = 28
+*** Performing hashInsert onGeorge, Singh
+
+(First, Last Mohammed )-->(Mohammed , Aucacama Pengdwende )-->(Pengdwende , Cesa Upesh)-->(Upesh, Guira George)-->(George, Singh NULL)-->NULL
+Tokenizing: First Name: Bingming	 Last Name: Thakur	 Operation: +	 H(x) = 26
+*** Performing hashInsert onBingming, Thakur
+
+(First, Last Hermun)-->(Hermun, Kim Richard)-->(Richard, Kim Bingming)-->(Bingming, Thakur NULL)-->NULL
+Tokenizing: First Name: LinBo	 Last Name: Tilija	 Operation: +	 H(x) = 17
+*** Performing hashInsert onLinBo, Tilija
+
+(First, Last Chelsea)-->(Chelsea, Mujaj LinBo)-->(LinBo, Tilija NULL)-->NULL
+Tokenizing: First Name: Davron	 Last Name: Cai	 Operation: ?	 H(x) = 13
+*** Performing hashRetrieval on Davron Cai
+
+Yes, the record is in the database!: 	Davron	Cai
+Tokenizing: First Name: Seratul	 Last Name: Diaz	 Operation: +	 H(x) = 4
+*** Performing hashInsert onSeratul, Diaz
+
+(First, Last Seratul)-->(Seratul, Diaz NULL)-->NULL
+Tokenizing: First Name: Roberto	 Last Name: Ehsan	 Operation: +	 H(x) = 2
+*** Performing hashInsert onRoberto, Ehsan
+
+(First, Last Roberto)-->(Roberto, Ehsan Miroo)-->(Miroo, Jayasundera NULL)-->NULL
+Tokenizing: First Name: Derek	 Last Name: Khanal	 Operation: +	 H(x) = 4
+*** Performing hashInsert onDerek, Khanal
+
+(First, Last Seratul)-->(Seratul, Diaz Derek)-->(Derek, Khanal NULL)-->NULL
+Tokenizing: First Name: Bijaya	 Last Name: Sajjad	 Operation: +	 H(x) = 14
+*** Performing hashInsert onBijaya, Sajjad
+
+(First, Last Josephine)-->(Josephine, Li Bijaya)-->(Bijaya, Sajjad Michael)-->(Michael, Zheng NULL)-->NULL
+Tokenizing: First Name: Roberto	 Last Name: Ehsan	 Operation: ?	 H(x) = 2
+*** Performing hashRetrieval on Roberto Ehsan
+
+Yes, the record is in the database!: 	Roberto	Ehsan
+Tokenizing: First Name: Jonathan 	 Last Name: Zhang	 Operation: +	 H(x) = 7
+*** Performing hashInsert onJonathan , Zhang
+
+(First, Last Jasmin)-->(Jasmin, Atwal Andy)-->(Andy, Lin Jonathan )-->(Jonathan , Zhang NULL)-->NULL
+Tokenizing: First Name: Ben	 Last Name: Gajda	 Operation: +	 H(x) = 6
+*** Performing hashInsert onBen, Gajda
+
+(First, Last Ben)-->(Ben, Gajda NULL)-->NULL
+Tokenizing: First Name: James 	 Last Name: Yu	 Operation: +	 H(x) = 7
+*** Performing hashInsert onJames , Yu
+
+(First, Last Jasmin)-->(Jasmin, Atwal Andy)-->(Andy, Lin James )-->(James , Yu Jonathan )-->(Jonathan , Zhang NULL)-->NULL
+Tokenizing: First Name: Megan	 Last Name: Shrestha	 Operation: +	 H(x) = 15
+*** Performing hashInsert onMegan, Shrestha
+
+(First, Last Brian)-->(Brian, Lee Megan)-->(Megan, Shrestha NULL)-->NULL
+Tokenizing: First Name: Alex	 Last Name: Devereux	 Operation: -	 H(x) = 5
+*** Performing hashDelete on Alex Devereux
+
+*** Warning, the record is *not* in the database!
+Tokenizing: First Name: Damian	 Last Name: Ambia	 Operation: +	 H(x) = 19
+*** Performing hashInsert onDamian, Ambia
+
+(First, Last Damian)-->(Damian, Ambia Fidiana)-->(Fidiana, Lei NULL)-->NULL
+Tokenizing: First Name: Larry	 Last Name: Andrade	 Operation: +	 H(x) = 20
+*** Performing hashInsert onLarry, Andrade
+
+(First, Last Larry)-->(Larry, Andrade Wen)-->(Wen, Johnson NULL)-->NULL
+Tokenizing: First Name: Umair	 Last Name: Azarpayvand	 Operation: +	 H(x) = 16
+*** Performing hashInsert onUmair, Azarpayvand
+
+(First, Last Elyon)-->(Elyon, Aminov Umair)-->(Umair, Azarpayvand NULL)-->NULL
+Tokenizing: First Name: Alex	 Last Name: Devereux	 Operation: ?	 H(x) = 5
+*** Performing hashRetrieval on Alex Devereux
+
+No, the record is not in the database!: 	Alex	Devereux
+Tokenizing: First Name: Rashad 	 Last Name: Bernard	 Operation: +	 H(x) = 6
+*** Performing hashInsert onRashad , Bernard
+
+(First, Last Rashad )-->(Rashad , Bernard Ben)-->(Ben, Gajda NULL)-->NULL
+Tokenizing: First Name: Heteng	 Last Name: Zhang	 Operation: -	 H(x) = 7
+*** Performing hashDelete on Heteng Zhang
+
+*** Warning, the record is *not* in the database!
+Tokenizing: First Name: Robert	 Last Name: Bista	 Operation: +	 H(x) = 4
+*** Performing hashInsert onRobert, Bista
+
+(First, Last Robert)-->(Robert, Bista Seratul)-->(Seratul, Diaz Derek)-->(Derek, Khanal NULL)-->NULL
+Tokenizing: First Name: John 	 Last Name: Cohen	 Operation: +	 H(x) = 0
+*** Performing hashInsert onJohn , Cohen
+
+(First, Last John )-->(John , Cohen NULL)-->NULL
+Tokenizing: First Name: James 	 Last Name: Deciutiis	 Operation: +	 H(x) = 26
+*** Performing hashInsert onJames , Deciutiis
+
+(First, Last James )-->(James , Deciutiis Hermun)-->(Hermun, Kim Richard)-->(Richard, Kim Bingming)-->(Bingming, Thakur NULL)-->NULL
+Tokenizing: First Name: Thomas	 Last Name: Diaz	 Operation: +	 H(x) = 4
+*** Performing hashInsert onThomas, Diaz
+
+(First, Last Robert)-->(Robert, Bista Seratul)-->(Seratul, Diaz Thomas)-->(Thomas, Diaz Derek)-->(Derek, Khanal NULL)-->NULL
+Tokenizing: First Name: Shudip	 Last Name: Taha	 Operation: +	 H(x) = 12
+*** Performing hashInsert onShudip, Taha
+
+(First, Last Chewantha )-->(Chewantha , Chowdhury David)-->(David, Chowdhury Isakhar)-->(Isakhar, Malla Gursharn)-->(Gursharn, Pho Mahima)-->(Mahima, Qu Shudip)-->(Shudip, Taha NULL)-->NULL
+Tokenizing: First Name: Jino	 Last Name: Ellis	 Operation: +	 H(x) = 18
+*** Performing hashInsert onJino, Ellis
+
+(First, Last Jino)-->(Jino, Ellis NULL)-->NULL
+Tokenizing: First Name: Dhawa 	 Last Name: Farooq	 Operation: +	 H(x) = 13
+*** Performing hashInsert onDhawa , Farooq
+
+(First, Last Davron)-->(Davron, Cai Dhawa )-->(Dhawa , Farooq NULL)-->NULL
+Tokenizing: First Name: Robert	 Last Name: Bista	 Operation: -	 H(x) = 4
+*** Performing hashDelete on Robert Bista
+
+(First, Last Seratul)-->(Seratul, Diaz Thomas)-->(Thomas, Diaz Derek)-->(Derek, Khanal NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Bertin 	 Last Name: Farooqi	 Operation: +	 H(x) = 1
+*** Performing hashInsert onBertin , Farooqi
+
+(First, Last Bertin )-->(Bertin , Farooqi NULL)-->NULL
+Tokenizing: First Name: Vincenzo	 Last Name: Gutierrez	 Operation: +	 H(x) = 3
+*** Performing hashInsert onVincenzo, Gutierrez
+
+(First, Last Vincenzo)-->(Vincenzo, Gutierrez NULL)-->NULL
+Tokenizing: First Name: Heteng	 Last Name: Zhang	 Operation: +	 H(x) = 7
+*** Performing hashInsert onHeteng, Zhang
+
+(First, Last Jasmin)-->(Jasmin, Atwal Andy)-->(Andy, Lin James )-->(James , Yu Heteng)-->(Heteng, Zhang Jonathan )-->(Jonathan , Zhang NULL)-->NULL
+Tokenizing: First Name: Robert	 Last Name: Bista	 Operation: ?	 H(x) = 4
+*** Performing hashRetrieval on Robert Bista
+
+No, the record is not in the database!: 	Robert	Bista
+Tokenizing: First Name: Alex	 Last Name: Devereux	 Operation: +	 H(x) = 5
+*** Performing hashInsert onAlex, Devereux
+
+(First, Last Alex)-->(Alex, Devereux Junjie)-->(Junjie, Kazi NULL)-->NULL
+Tokenizing: First Name: Michael	 Last Name: Kim	 Operation: +	 H(x) = 26
+*** Performing hashInsert onMichael, Kim
+
+(First, Last James )-->(James , Deciutiis Hermun)-->(Hermun, Kim Michael)-->(Michael, Kim Richard)-->(Richard, Kim Bingming)-->(Bingming, Thakur NULL)-->NULL
+Tokenizing: First Name: Ryan	 Last Name: Kousountidis	 Operation: +	 H(x) = 27
+*** Performing hashInsert onRyan, Kousountidis
+
+(First, Last Tasif )-->(Tasif , Jang Ryan)-->(Ryan, Kousountidis NULL)-->NULL
+Tokenizing: First Name: Shudip	 Last Name: Taha	 Operation: -	 H(x) = 12
+*** Performing hashDelete on Shudip Taha
+
+(First, Last Chewantha )-->(Chewantha , Chowdhury David)-->(David, Chowdhury Isakhar)-->(Isakhar, Malla Gursharn)-->(Gursharn, Pho Mahima)-->(Mahima, Qu NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Matin	 Last Name: Kwon	 Operation: +	 H(x) = 1
+*** Performing hashInsert onMatin, Kwon
+
+(First, Last Bertin )-->(Bertin , Farooqi Matin)-->(Matin, Kwon NULL)-->NULL
+Tokenizing: First Name: Kenley	 Last Name: Lama	 Operation: +	 H(x) = 14
+*** Performing hashInsert onKenley, Lama
+
+(First, Last Kenley)-->(Kenley, Lama Josephine)-->(Josephine, Li Bijaya)-->(Bijaya, Sajjad Michael)-->(Michael, Zheng NULL)-->NULL
+Tokenizing: First Name: John	 Last Name: Legendre	 Operation: +	 H(x) = 14
+*** Performing hashInsert onJohn, Legendre
+
+(First, Last Kenley)-->(Kenley, Lama John)-->(John, Legendre Josephine)-->(Josephine, Li Bijaya)-->(Bijaya, Sajjad Michael)-->(Michael, Zheng NULL)-->NULL
+Tokenizing: First Name: Afm	 Last Name: Syedan	 Operation: +	 H(x) = 10
+*** Performing hashInsert onAfm, Syedan
+
+(First, Last Afm)-->(Afm, Syedan Sweyaksha)-->(Sweyaksha, Webster NULL)-->NULL
+Tokenizing: First Name: Bakhtiyorjon	 Last Name: Manno	 Operation: +	 H(x) = 21
+*** Performing hashInsert onBakhtiyorjon, Manno
+
+(First, Last Avenash)-->(Avenash, Luu Bakhtiyorjon)-->(Bakhtiyorjon, Manno Carlos)-->(Carlos, Ochilov NULL)-->NULL
+Tokenizing: First Name: Megan	 Last Name: Shrestha	 Operation: -	 H(x) = 15
+*** Performing hashDelete on Megan Shrestha
+
+(First, Last Brian)-->(Brian, Lee NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Franklin	 Last Name: Meneses	 Operation: +	 H(x) = 8
+*** Performing hashInsert onFranklin, Meneses
+
+(First, Last Franklin)-->(Franklin, Meneses NULL)-->NULL
+Tokenizing: First Name: Muhammad 	 Last Name: Mohamed	 Operation: +	 H(x) = 6
+*** Performing hashInsert onMuhammad , Mohamed
+
+(First, Last Rashad )-->(Rashad , Bernard Ben)-->(Ben, Gajda Muhammad )-->(Muhammad , Mohamed NULL)-->NULL
+Tokenizing: First Name: Afm	 Last Name: Syedan	 Operation: -	 H(x) = 10
+*** Performing hashDelete on Afm Syedan
+
+(First, Last Sweyaksha)-->(Sweyaksha, Webster NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Megan	 Last Name: Shrestha	 Operation: ?	 H(x) = 15
+*** Performing hashRetrieval on Megan Shrestha
+
+No, the record is not in the database!: 	Megan	Shrestha
+Tokenizing: First Name: Afm	 Last Name: Syedan	 Operation: ?	 H(x) = 10
+*** Performing hashRetrieval on Afm Syedan
+
+No, the record is not in the database!: 	Afm	Syedan
+Tokenizing: First Name: Preety	 Last Name: Nazamy	 Operation: +	 H(x) = 19
+*** Performing hashInsert onPreety, Nazamy
+
+(First, Last Damian)-->(Damian, Ambia Fidiana)-->(Fidiana, Lei Preety)-->(Preety, Nazamy NULL)-->NULL
+Tokenizing: First Name: Luis	 Last Name: Subick	 Operation: +	 H(x) = 1
+*** Performing hashInsert onLuis, Subick
+
+(First, Last Bertin )-->(Bertin , Farooqi Matin)-->(Matin, Kwon Luis)-->(Luis, Subick NULL)-->NULL
+Tokenizing: First Name: Ryan	 Last Name: Nicolas	 Operation: +	 H(x) = 27
+*** Performing hashInsert onRyan, Nicolas
+
+(First, Last Tasif )-->(Tasif , Jang Ryan)-->(Ryan, Kousountidis Ryan)-->(Ryan, Nicolas NULL)-->NULL
+Tokenizing: First Name: Bijaya	 Last Name: Sajjad	 Operation: -	 H(x) = 14
+*** Performing hashDelete on Bijaya Sajjad
+
+(First, Last Kenley)-->(Kenley, Lama John)-->(John, Legendre Josephine)-->(Josephine, Li Michael)-->(Michael, Zheng NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Hajab 	 Last Name: Prykiel	 Operation: +	 H(x) = 17
+*** Performing hashInsert onHajab , Prykiel
+
+(First, Last Chelsea)-->(Chelsea, Mujaj Hajab )-->(Hajab , Prykiel LinBo)-->(LinBo, Tilija NULL)-->NULL
+Tokenizing: First Name: Mohab	 Last Name: Rasulov	 Operation: +	 H(x) = 21
+*** Performing hashInsert onMohab, Rasulov
+
+(First, Last Avenash)-->(Avenash, Luu Bakhtiyorjon)-->(Bakhtiyorjon, Manno Carlos)-->(Carlos, Ochilov Mohab)-->(Mohab, Rasulov NULL)-->NULL
+Tokenizing: First Name: Wengang	 Last Name: Rodriguez	 Operation: +	 H(x) = 11
+*** Performing hashInsert onWengang, Rodriguez
+
+(First, Last Tenzin)-->(Tenzin, Rodriguez Wengang)-->(Wengang, Rodriguez NULL)-->NULL
+Tokenizing: First Name: Luis	 Last Name: Subick	 Operation: -	 H(x) = 1
+*** Performing hashDelete on Luis Subick
+
+(First, Last Bertin )-->(Bertin , Farooqi Matin)-->(Matin, Kwon NULL)-->NULL
+
+deleted
+Tokenizing: First Name: Bijaya	 Last Name: Sajjad	 Operation: ?	 H(x) = 14
+*** Performing hashRetrieval on Bijaya Sajjad
+
+No, the record is not in the database!: 	Bijaya	Sajjad

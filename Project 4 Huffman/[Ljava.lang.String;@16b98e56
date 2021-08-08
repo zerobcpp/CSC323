@@ -1,0 +1,310 @@
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(e,  269,  000,  fS41B;5(-)T'kcypb)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(f,  71,  00100,  S41B;5(-)T'k)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(S,  18,  0010100,  41B;5(-)T')Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(4,  1,  00101010000,  1)Tree preorder traversal
+(1,  1,  00101010001,  -)(41,  2,  ,  B;,  4,  1)Tree preorder traversal
+Tree preorder traversal
+(B,  1,  00101010010,  ;)Tree preorder traversal
+(;,  1,  00101010011,  4)(B;,  2,  ,  DC,  B,  ;)(41B;,  4,  ,  5(-),  41,  B;)Tree preorder traversal
+Tree preorder traversal
+(5,  2,  0010101010,  (-))Tree preorder traversal
+Tree preorder traversal
+((,  1,  00101010110,  -))Tree preorder traversal
+Tree preorder traversal
+(-,  1,  001010101110,  ))Tree preorder traversal
+(),  1,  001010101111,  ()(-),  2,  ,  41,  -,  ))((-),  3,  ,  U,  (,  -))(5(-),  5,  ,  T,  5,  (-))(41B;5(-),  9,  ,  T',  41B;,  5(-))Tree preorder traversal
+Tree preorder traversal
+(T,  5,  001010110,  ')Tree preorder traversal
+(',  5,  001010111,  UH)(T',  10,  ,  OM,  T,  ')(41B;5(-)T',  19,  ,  OMUHx,  41B;5(-),  T')(S41B;5(-)T',  37,  ,  k,  S,  41B;5(-)T')Tree preorder traversal
+(k,  37,  001011,  c)(S41B;5(-)T'k,  74,  ,  cy,  S41B;5(-)T',  k)(fS41B;5(-)T'k,  145,  ,  cypb,  f,  S41B;5(-)T'k)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(c,  38,  001100,  y)Tree preorder traversal
+(y,  40,  001101,  p)(cy,  78,  ,  pb,  c,  y)Tree preorder traversal
+Tree preorder traversal
+(p,  40,  001110,  b)Tree preorder traversal
+(b,  40,  001111,  ,)(pb,  80,  ,  d,  p,  b)(cypb,  158,  ,  o,  cy,  pb)(fS41B;5(-)T'kcypb,  303,  ,  od,u,  fS41B;5(-)T'k,  cypb)(efS41B;5(-)T'kcypb,  572,  ,  od,uhs,  e,  fS41B;5(-)T'kcypb)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(o,  171,  0100,  d,u)Tree preorder traversal
+Tree preorder traversal
+(d,  84,  01010,  ,u)Tree preorder traversal
+Tree preorder traversal
+(,,  43,  010110,  u)Tree preorder traversal
+(u,  46,  010111,  m)(,u,  89,  ,  mOMUHx.,  ,,  u)(d,u,  173,  ,  h,  d,  ,u)(od,u,  344,  ,  hs,  o,  d,u)Tree preorder traversal
+Tree preorder traversal
+(h,  184,  0110,  s)Tree preorder traversal
+(s,  191,  0111,  i)(hs,  375,  ,  in,  h,  s)(od,uhs,  719,  ,  inmOMUHx.lt,  od,u,  hs)(efS41B;5(-)T'kcypbod,uhs,  1291,  ,  inmOMUHx.ltaAG8WPéjDCJFvwgr ,  efS41B;5(-)T'kcypb,  od,uhs)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(i,  196,  1000,  n)Tree preorder traversal
+(n,  199,  1001,  mOMUHx.l)(in,  395,  ,  mOMUHx.lt,  i,  n)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(m,  49,  101000,  OMUHx.)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(O,  6,  101001000,  M)Tree preorder traversal
+(M,  6,  101001001,  AG8)(OM,  12,  ,  UHx,  O,  M)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(U,  3,  1010010100,  H)Tree preorder traversal
+(H,  3,  1010010101,  A)(UH,  6,  ,  x,  U,  H)Tree preorder traversal
+(x,  6,  101001011,  O)(UHx,  12,  ,  AG8WPéjDCJF,  UH,  x)(OMUHx,  24,  ,  .,  OM,  UHx)Tree preorder traversal
+(.,  27,  1010011,  AG8WPéjDCJFv)(OMUHx.,  51,  ,  AG8WPéjDCJFvw,  OMUHx,  .)(mOMUHx.,  100,  ,  l,  m,  OMUHx.)Tree preorder traversal
+(l,  101,  10101,  AG8WPéjDCJFvwg)(mOMUHx.l,  201,  ,  t,  mOMUHx.,  l)Tree preorder traversal
+(t,  220,  1011,  a)(mOMUHx.lt,  421,  ,  aAG8WPéjDCJFvwgr,  mOMUHx.l,  t)(inmOMUHx.lt,  816,  ,  aAG8WPéjDCJFvwgr ,  in,  mOMUHx.lt)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(a,  241,  1100,  AG8WPéjDCJFvwgr)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(A,  3,  1101000000,  G8)Tree preorder traversal
+Tree preorder traversal
+(G,  2,  11010000010,  8)Tree preorder traversal
+(8,  2,  11010000011,  5)(G8,  4,  ,  WPéj,  G,  8)(AG8,  7,  ,  WPéjDCJF,  A,  G8)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(W,  1,  110100001000,  P)Tree preorder traversal
+(P,  1,  110100001001,  J)(WP,  2,  ,  éj,  W,  P)Tree preorder traversal
+Tree preorder traversal
+(é,  1,  110100001010,  j)Tree preorder traversal
+(j,  1,  110100001011,  W)(éj,  2,  ,  G,  é,  j)(WPéj,  4,  ,  DCJF,  WP,  éj)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(D,  1,  110100001100,  C)Tree preorder traversal
+(C,  1,  110100001101,  B)(DC,  2,  ,  JF,  D,  C)Tree preorder traversal
+Tree preorder traversal
+(J,  1,  110100001110,  F)Tree preorder traversal
+(F,  1,  110100001111,  D)(JF,  2,  ,  WP,  J,  F)(DCJF,  4,  ,  41B;,  DC,  JF)(WPéjDCJF,  8,  ,  41B;5(-),  WPéj,  DCJF)(AG8WPéjDCJF,  15,  ,  v,  AG8,  WPéjDCJF)Tree preorder traversal
+(v,  15,  11010001,  S)(AG8WPéjDCJFv,  30,  ,  w,  AG8WPéjDCJF,  v)Tree preorder traversal
+(w,  30,  1101001,  S41B;5(-)T')(AG8WPéjDCJFvw,  60,  ,  g,  AG8WPéjDCJFv,  w)Tree preorder traversal
+(g,  65,  110101,  f)(AG8WPéjDCJFvwg,  125,  ,  r,  AG8WPéjDCJFvw,  g)Tree preorder traversal
+(r,  126,  11011,  fS41B;5(-)T'k)(AG8WPéjDCJFvwgr,  251,  ,  e,  AG8WPéjDCJFvwg,  r)(aAG8WPéjDCJFvwgr,  492,  ,   ,  a,  AG8WPéjDCJFvwgr)Tree preorder traversal
+( ,  571,  111,  efS41B;5(-)T'kcypb)(aAG8WPéjDCJFvwgr ,  1063,  ,  efS41B;5(-)T'kcypbod,uhs,  aAG8WPéjDCJFvwgr,   )(inmOMUHx.ltaAG8WPéjDCJFvwgr ,  1879,  )(efS41B;5(-)T'kcypbod,uhsinmOMUHx.ltaAG8WPéjDCJFvwgr ,  3170,  )Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(e,  269,  000,  fS41B;5(-)T'kcypb)(efS41B;5(-)T'kcypb,  572,  ,  od,uhs,  e,  fS41B;5(-)T'kcypb)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(f,  71,  00100,  S41B;5(-)T'k)(fS41B;5(-)T'k,  145,  ,  cypb,  f,  S41B;5(-)T'k)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(S,  18,  0010100,  41B;5(-)T')(S41B;5(-)T',  37,  ,  k,  S,  41B;5(-)T')Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(4,  1,  00101010000,  1)(41,  2,  ,  B;,  4,  1)Tree preorder traversal
+(1,  1,  00101010001,  -)(41B;,  4,  ,  5(-),  41,  B;)Tree preorder traversal
+Tree preorder traversal
+(B,  1,  00101010010,  ;)(B;,  2,  ,  DC,  B,  ;)Tree preorder traversal
+(;,  1,  00101010011,  4)(41B;5(-),  9,  ,  T',  41B;,  5(-))Tree preorder traversal
+Tree preorder traversal
+(5,  2,  0010101010,  (-))(5(-),  5,  ,  T,  5,  (-))Tree preorder traversal
+Tree preorder traversal
+((,  1,  00101010110,  -))((-),  3,  ,  U,  (,  -))Tree preorder traversal
+Tree preorder traversal
+(-,  1,  001010101110,  ))(-),  2,  ,  41,  -,  ))Tree preorder traversal
+(),  1,  001010101111,  ()(41B;5(-)T',  19,  ,  OMUHx,  41B;5(-),  T')Tree preorder traversal
+Tree preorder traversal
+(T,  5,  001010110,  ')(T',  10,  ,  OM,  T,  ')Tree preorder traversal
+(',  5,  001010111,  UH)(S41B;5(-)T'k,  74,  ,  cy,  S41B;5(-)T',  k)Tree preorder traversal
+(k,  37,  001011,  c)(fS41B;5(-)T'kcypb,  303,  ,  od,u,  fS41B;5(-)T'k,  cypb)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(c,  38,  001100,  y)(cy,  78,  ,  pb,  c,  y)Tree preorder traversal
+(y,  40,  001101,  p)(cypb,  158,  ,  o,  cy,  pb)Tree preorder traversal
+Tree preorder traversal
+(p,  40,  001110,  b)(pb,  80,  ,  d,  p,  b)Tree preorder traversal
+(b,  40,  001111,  ,)(efS41B;5(-)T'kcypbod,uhs,  1291,  ,  inmOMUHx.ltaAG8WPéjDCJFvwgr ,  efS41B;5(-)T'kcypb,  od,uhs)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(o,  171,  0100,  d,u)(od,u,  344,  ,  hs,  o,  d,u)Tree preorder traversal
+Tree preorder traversal
+(d,  84,  01010,  ,u)(d,u,  173,  ,  h,  d,  ,u)Tree preorder traversal
+Tree preorder traversal
+(,,  43,  010110,  u)(,u,  89,  ,  mOMUHx.,  ,,  u)Tree preorder traversal
+(u,  46,  010111,  m)(od,uhs,  719,  ,  inmOMUHx.lt,  od,u,  hs)Tree preorder traversal
+Tree preorder traversal
+(h,  184,  0110,  s)(hs,  375,  ,  in,  h,  s)Tree preorder traversal
+(s,  191,  0111,  i)(efS41B;5(-)T'kcypbod,uhsinmOMUHx.ltaAG8WPéjDCJFvwgr ,  3170,  )Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(i,  196,  1000,  n)(in,  395,  ,  mOMUHx.lt,  i,  n)Tree preorder traversal
+(n,  199,  1001,  mOMUHx.l)(inmOMUHx.lt,  816,  ,  aAG8WPéjDCJFvwgr ,  in,  mOMUHx.lt)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(m,  49,  101000,  OMUHx.)(mOMUHx.,  100,  ,  l,  m,  OMUHx.)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(O,  6,  101001000,  M)(OM,  12,  ,  UHx,  O,  M)Tree preorder traversal
+(M,  6,  101001001,  AG8)(OMUHx,  24,  ,  .,  OM,  UHx)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(U,  3,  1010010100,  H)(UH,  6,  ,  x,  U,  H)Tree preorder traversal
+(H,  3,  1010010101,  A)(UHx,  12,  ,  AG8WPéjDCJF,  UH,  x)Tree preorder traversal
+(x,  6,  101001011,  O)(OMUHx.,  51,  ,  AG8WPéjDCJFvw,  OMUHx,  .)Tree preorder traversal
+(.,  27,  1010011,  AG8WPéjDCJFv)(mOMUHx.l,  201,  ,  t,  mOMUHx.,  l)Tree preorder traversal
+(l,  101,  10101,  AG8WPéjDCJFvwg)(mOMUHx.lt,  421,  ,  aAG8WPéjDCJFvwgr,  mOMUHx.l,  t)Tree preorder traversal
+(t,  220,  1011,  a)(inmOMUHx.ltaAG8WPéjDCJFvwgr ,  1879,  )Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(a,  241,  1100,  AG8WPéjDCJFvwgr)(aAG8WPéjDCJFvwgr,  492,  ,   ,  a,  AG8WPéjDCJFvwgr)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(A,  3,  1101000000,  G8)(AG8,  7,  ,  WPéjDCJF,  A,  G8)Tree preorder traversal
+Tree preorder traversal
+(G,  2,  11010000010,  8)(G8,  4,  ,  WPéj,  G,  8)Tree preorder traversal
+(8,  2,  11010000011,  5)(AG8WPéjDCJF,  15,  ,  v,  AG8,  WPéjDCJF)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(W,  1,  110100001000,  P)(WP,  2,  ,  éj,  W,  P)Tree preorder traversal
+(P,  1,  110100001001,  J)(WPéj,  4,  ,  DCJF,  WP,  éj)Tree preorder traversal
+Tree preorder traversal
+(é,  1,  110100001010,  j)(éj,  2,  ,  G,  é,  j)Tree preorder traversal
+(j,  1,  110100001011,  W)(WPéjDCJF,  8,  ,  41B;5(-),  WPéj,  DCJF)Tree preorder traversal
+Tree preorder traversal
+Tree preorder traversal
+(D,  1,  110100001100,  C)(DC,  2,  ,  JF,  D,  C)Tree preorder traversal
+(C,  1,  110100001101,  B)(DCJF,  4,  ,  41B;,  DC,  JF)Tree preorder traversal
+Tree preorder traversal
+(J,  1,  110100001110,  F)(JF,  2,  ,  WP,  J,  F)Tree preorder traversal
+(F,  1,  110100001111,  D)(AG8WPéjDCJFv,  30,  ,  w,  AG8WPéjDCJF,  v)Tree preorder traversal
+(v,  15,  11010001,  S)(AG8WPéjDCJFvw,  60,  ,  g,  AG8WPéjDCJFv,  w)Tree preorder traversal
+(w,  30,  1101001,  S41B;5(-)T')(AG8WPéjDCJFvwg,  125,  ,  r,  AG8WPéjDCJFvw,  g)Tree preorder traversal
+(g,  65,  110101,  f)(AG8WPéjDCJFvwgr,  251,  ,  e,  AG8WPéjDCJFvwg,  r)Tree preorder traversal
+(r,  126,  11011,  fS41B;5(-)T'k)(aAG8WPéjDCJFvwgr ,  1063,  ,  efS41B;5(-)T'kcypbod,uhs,  aAG8WPéjDCJFvwgr,   )Tree preorder traversal
+( ,  571,  111,  efS41B;5(-)T'kcypb)Tree preorder traversal
+(efS41B;5(-)T'kcypbod,uhsinmOMUHx.ltaAG8WPéjDCJFvwgr ,  3170,  )Tree preorder traversal
+(efS41B;5(-)T'kcypbod,uhs,  1291,  ,  inmOMUHx.ltaAG8WPéjDCJFvwgr ,  efS41B;5(-)T'kcypb,  od,uhs)Tree preorder traversal
+(efS41B;5(-)T'kcypb,  572,  ,  od,uhs,  e,  fS41B;5(-)T'kcypb)Tree preorder traversal
+(e,  269,  000,  fS41B;5(-)T'kcypb)Tree preorder traversal
+(fS41B;5(-)T'kcypb,  303,  ,  od,u,  fS41B;5(-)T'k,  cypb)Tree preorder traversal
+(fS41B;5(-)T'k,  145,  ,  cypb,  f,  S41B;5(-)T'k)Tree preorder traversal
+(f,  71,  00100,  S41B;5(-)T'k)Tree preorder traversal
+(S41B;5(-)T'k,  74,  ,  cy,  S41B;5(-)T',  k)Tree preorder traversal
+(S41B;5(-)T',  37,  ,  k,  S,  41B;5(-)T')Tree preorder traversal
+(S,  18,  0010100,  41B;5(-)T')Tree preorder traversal
+(41B;5(-)T',  19,  ,  OMUHx,  41B;5(-),  T')Tree preorder traversal
+(41B;5(-),  9,  ,  T',  41B;,  5(-))Tree preorder traversal
+(41B;,  4,  ,  5(-),  41,  B;)Tree preorder traversal
+(41,  2,  ,  B;,  4,  1)Tree preorder traversal
+(4,  1,  00101010000,  1)Tree preorder traversal
+(1,  1,  00101010001,  -)Tree preorder traversal
+(B;,  2,  ,  DC,  B,  ;)Tree preorder traversal
+(B,  1,  00101010010,  ;)Tree preorder traversal
+(;,  1,  00101010011,  4)Tree preorder traversal
+(5(-),  5,  ,  T,  5,  (-))Tree preorder traversal
+(5,  2,  0010101010,  (-))Tree preorder traversal
+((-),  3,  ,  U,  (,  -))Tree preorder traversal
+((,  1,  00101010110,  -))Tree preorder traversal
+(-),  2,  ,  41,  -,  ))Tree preorder traversal
+(-,  1,  001010101110,  ))Tree preorder traversal
+(),  1,  001010101111,  ()Tree preorder traversal
+(T',  10,  ,  OM,  T,  ')Tree preorder traversal
+(T,  5,  001010110,  ')Tree preorder traversal
+(',  5,  001010111,  UH)Tree preorder traversal
+(k,  37,  001011,  c)Tree preorder traversal
+(cypb,  158,  ,  o,  cy,  pb)Tree preorder traversal
+(cy,  78,  ,  pb,  c,  y)Tree preorder traversal
+(c,  38,  001100,  y)Tree preorder traversal
+(y,  40,  001101,  p)Tree preorder traversal
+(pb,  80,  ,  d,  p,  b)Tree preorder traversal
+(p,  40,  001110,  b)Tree preorder traversal
+(b,  40,  001111,  ,)Tree preorder traversal
+(od,uhs,  719,  ,  inmOMUHx.lt,  od,u,  hs)Tree preorder traversal
+(od,u,  344,  ,  hs,  o,  d,u)Tree preorder traversal
+(o,  171,  0100,  d,u)Tree preorder traversal
+(d,u,  173,  ,  h,  d,  ,u)Tree preorder traversal
+(d,  84,  01010,  ,u)Tree preorder traversal
+(,u,  89,  ,  mOMUHx.,  ,,  u)Tree preorder traversal
+(,,  43,  010110,  u)Tree preorder traversal
+(u,  46,  010111,  m)Tree preorder traversal
+(hs,  375,  ,  in,  h,  s)Tree preorder traversal
+(h,  184,  0110,  s)Tree preorder traversal
+(s,  191,  0111,  i)Tree preorder traversal
+(inmOMUHx.ltaAG8WPéjDCJFvwgr ,  1879,  )Tree preorder traversal
+(inmOMUHx.lt,  816,  ,  aAG8WPéjDCJFvwgr ,  in,  mOMUHx.lt)Tree preorder traversal
+(in,  395,  ,  mOMUHx.lt,  i,  n)Tree preorder traversal
+(i,  196,  1000,  n)Tree preorder traversal
+(n,  199,  1001,  mOMUHx.l)Tree preorder traversal
+(mOMUHx.lt,  421,  ,  aAG8WPéjDCJFvwgr,  mOMUHx.l,  t)Tree preorder traversal
+(mOMUHx.l,  201,  ,  t,  mOMUHx.,  l)Tree preorder traversal
+(mOMUHx.,  100,  ,  l,  m,  OMUHx.)Tree preorder traversal
+(m,  49,  101000,  OMUHx.)Tree preorder traversal
+(OMUHx.,  51,  ,  AG8WPéjDCJFvw,  OMUHx,  .)Tree preorder traversal
+(OMUHx,  24,  ,  .,  OM,  UHx)Tree preorder traversal
+(OM,  12,  ,  UHx,  O,  M)Tree preorder traversal
+(O,  6,  101001000,  M)Tree preorder traversal
+(M,  6,  101001001,  AG8)Tree preorder traversal
+(UHx,  12,  ,  AG8WPéjDCJF,  UH,  x)Tree preorder traversal
+(UH,  6,  ,  x,  U,  H)Tree preorder traversal
+(U,  3,  1010010100,  H)Tree preorder traversal
+(H,  3,  1010010101,  A)Tree preorder traversal
+(x,  6,  101001011,  O)Tree preorder traversal
+(.,  27,  1010011,  AG8WPéjDCJFv)Tree preorder traversal
+(l,  101,  10101,  AG8WPéjDCJFvwg)Tree preorder traversal
+(t,  220,  1011,  a)Tree preorder traversal
+(aAG8WPéjDCJFvwgr ,  1063,  ,  efS41B;5(-)T'kcypbod,uhs,  aAG8WPéjDCJFvwgr,   )Tree preorder traversal
+(aAG8WPéjDCJFvwgr,  492,  ,   ,  a,  AG8WPéjDCJFvwgr)Tree preorder traversal
+(a,  241,  1100,  AG8WPéjDCJFvwgr)Tree preorder traversal
+(AG8WPéjDCJFvwgr,  251,  ,  e,  AG8WPéjDCJFvwg,  r)Tree preorder traversal
+(AG8WPéjDCJFvwg,  125,  ,  r,  AG8WPéjDCJFvw,  g)Tree preorder traversal
+(AG8WPéjDCJFvw,  60,  ,  g,  AG8WPéjDCJFv,  w)Tree preorder traversal
+(AG8WPéjDCJFv,  30,  ,  w,  AG8WPéjDCJF,  v)Tree preorder traversal
+(AG8WPéjDCJF,  15,  ,  v,  AG8,  WPéjDCJF)Tree preorder traversal
+(AG8,  7,  ,  WPéjDCJF,  A,  G8)Tree preorder traversal
+(A,  3,  1101000000,  G8)Tree preorder traversal
+(G8,  4,  ,  WPéj,  G,  8)Tree preorder traversal
+(G,  2,  11010000010,  8)Tree preorder traversal
+(8,  2,  11010000011,  5)Tree preorder traversal
+(WPéjDCJF,  8,  ,  41B;5(-),  WPéj,  DCJF)Tree preorder traversal
+(WPéj,  4,  ,  DCJF,  WP,  éj)Tree preorder traversal
+(WP,  2,  ,  éj,  W,  P)Tree preorder traversal
+(W,  1,  110100001000,  P)Tree preorder traversal
+(P,  1,  110100001001,  J)Tree preorder traversal
+(éj,  2,  ,  G,  é,  j)Tree preorder traversal
+(é,  1,  110100001010,  j)Tree preorder traversal
+(j,  1,  110100001011,  W)Tree preorder traversal
+(DCJF,  4,  ,  41B;,  DC,  JF)Tree preorder traversal
+(DC,  2,  ,  JF,  D,  C)Tree preorder traversal
+(D,  1,  110100001100,  C)Tree preorder traversal
+(C,  1,  110100001101,  B)Tree preorder traversal
+(JF,  2,  ,  WP,  J,  F)Tree preorder traversal
+(J,  1,  110100001110,  F)Tree preorder traversal
+(F,  1,  110100001111,  D)Tree preorder traversal
+(v,  15,  11010001,  S)Tree preorder traversal
+(w,  30,  1101001,  S41B;5(-)T')Tree preorder traversal
+(g,  65,  110101,  f)Tree preorder traversal
+(r,  126,  11011,  fS41B;5(-)T'k)Tree preorder traversal
+( ,  571,  111,  efS41B;5(-)T'kcypb)

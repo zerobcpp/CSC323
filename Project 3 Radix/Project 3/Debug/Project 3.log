@@ -1,0 +1,8 @@
+﻿  source.cpp
+C:\Users\zerob\source\repos\Project 3\Project 3\other.h(74,1): error C2440: 'initializing': cannot convert from 'listNode *' to 'listNode &'
+C:\Users\zerob\source\repos\Project 3\Project 3\other.h(75,1): error C2819: type 'listNode' does not have an overloaded member 'operator ->'
+C:\Users\zerob\source\repos\Project 3\Project 3\other.h(10): message : see declaration of 'listNode'
+C:\Users\zerob\source\repos\Project 3\Project 3\other.h(75,1): message : did you intend to use '.' instead?
+C:\Users\zerob\source\repos\Project 3\Project 3\other.h(75,1): error C2232: '->listNode::data': left operand has 'class' type, use '.'
+C:\Users\zerob\source\repos\Project 3\Project 3\other.h(79,1): error C2440: 'delete': cannot convert from 'listNode' to 'void*'
+C:\Users\zerob\source\repos\Project 3\Project 3\other.h(79,13): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called

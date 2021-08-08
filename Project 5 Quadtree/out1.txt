@@ -1,0 +1,53 @@
+Original Row: 36, Original Col: 40, #POWER2# : 64
+------------- Preorder ---------------
+Color: 5 Upper Row: 0 Upper Cols: 0 Size: 64 NW's Color: 5 NE's Color: 5 SW's Color: 0 SE's Color: 0 
+Color: 5 Upper Row: 0 Upper Cols: 0 Size: 32 NW's Color: 0 NE's Color: 0 SW's Color: 0 SE's Color: 5 
+Color: 0 Upper Row: 0 Upper Cols: 0 Size: 16 
+Color: 0 Upper Row: 0 Upper Cols: 16 Size: 16 
+Color: 0 Upper Row: 16 Upper Cols: 0 Size: 16 
+Color: 0 Upper Row: 0 Upper Cols: 16 Size: 16 
+Color: 5 Upper Row: 0 Upper Cols: 32 Size: 32 NW's Color: 0 NE's Color: 0 SW's Color: 5 SE's Color: 0 
+Color: 0 Upper Row: 0 Upper Cols: 32 Size: 16 
+Color: 0 Upper Row: 0 Upper Cols: 48 Size: 16 
+Color: 5 Upper Row: 16 Upper Cols: 32 Size: 16 NW's Color: 1 NE's Color: 0 SW's Color: 1 SE's Color: 0 
+Color: 1 Upper Row: 16 Upper Cols: 32 Size: 8 
+Color: 0 Upper Row: 16 Upper Cols: 40 Size: 8 
+Color: 1 Upper Row: 24 Upper Cols: 32 Size: 8 
+Color: 0 Upper Row: 16 Upper Cols: 40 Size: 8 
+Color: 0 Upper Row: 0 Upper Cols: 48 Size: 16 
+Color: 0 Upper Row: 32 Upper Cols: 0 Size: 32 
+Color: 5 Upper Row: 0 Upper Cols: 32 Size: 32 NW's Color: 0 NE's Color: 0 SW's Color: 5 SE's Color: 0 
+Color: 0 Upper Row: 0 Upper Cols: 32 Size: 16 
+Color: 0 Upper Row: 0 Upper Cols: 48 Size: 16 
+Color: 5 Upper Row: 16 Upper Cols: 32 Size: 16 NW's Color: 1 NE's Color: 0 SW's Color: 1 SE's Color: 0 
+Color: 1 Upper Row: 16 Upper Cols: 32 Size: 8 
+Color: 0 Upper Row: 16 Upper Cols: 40 Size: 8 
+Color: 1 Upper Row: 24 Upper Cols: 32 Size: 8 
+Color: 0 Upper Row: 16 Upper Cols: 40 Size: 8 
+Color: 0 Upper Row: 0 Upper Cols: 48 Size: 16 
+------------- Postorder ---------------
+Color: 0 Upper Row: 0 Upper Cols: 0 Size: 16 
+Color: 0 Upper Row: 0 Upper Cols: 16 Size: 16 
+Color: 0 Upper Row: 16 Upper Cols: 0 Size: 16 
+Color: 0 Upper Row: 0 Upper Cols: 16 Size: 16 
+Color: 5 Upper Row: 0 Upper Cols: 0 Size: 32 NW's Color: 0 NE's Color: 0 SW's Color: 0 SE's Color: 5 
+Color: 0 Upper Row: 0 Upper Cols: 32 Size: 16 
+Color: 0 Upper Row: 0 Upper Cols: 48 Size: 16 
+Color: 1 Upper Row: 16 Upper Cols: 32 Size: 8 
+Color: 0 Upper Row: 16 Upper Cols: 40 Size: 8 
+Color: 1 Upper Row: 24 Upper Cols: 32 Size: 8 
+Color: 0 Upper Row: 16 Upper Cols: 40 Size: 8 
+Color: 5 Upper Row: 16 Upper Cols: 32 Size: 16 NW's Color: 1 NE's Color: 0 SW's Color: 1 SE's Color: 0 
+Color: 0 Upper Row: 0 Upper Cols: 48 Size: 16 
+Color: 5 Upper Row: 0 Upper Cols: 32 Size: 32 NW's Color: 0 NE's Color: 0 SW's Color: 5 SE's Color: 0 
+Color: 0 Upper Row: 32 Upper Cols: 0 Size: 32 
+Color: 0 Upper Row: 0 Upper Cols: 32 Size: 16 
+Color: 0 Upper Row: 0 Upper Cols: 48 Size: 16 
+Color: 1 Upper Row: 16 Upper Cols: 32 Size: 8 
+Color: 0 Upper Row: 16 Upper Cols: 40 Size: 8 
+Color: 1 Upper Row: 24 Upper Cols: 32 Size: 8 
+Color: 0 Upper Row: 16 Upper Cols: 40 Size: 8 
+Color: 5 Upper Row: 16 Upper Cols: 32 Size: 16 NW's Color: 1 NE's Color: 0 SW's Color: 1 SE's Color: 0 
+Color: 0 Upper Row: 0 Upper Cols: 48 Size: 16 
+Color: 5 Upper Row: 0 Upper Cols: 32 Size: 32 NW's Color: 0 NE's Color: 0 SW's Color: 5 SE's Color: 0 
+Color: 5 Upper Row: 0 Upper Cols: 0 Size: 64 NW's Color: 5 NE's Color: 5 SW's Color: 0 SE's Color: 0 
