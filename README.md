@@ -1,2 +1,2 @@
-# CSC323
+# CSC in Queens College 
  Algorithm Assignments
